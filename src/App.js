@@ -33,7 +33,6 @@ function App() {
         <Route path="/register">
           <SignupPage></SignupPage>
         </Route>
-
         <Route path="/product">
           <ProductPage></ProductPage>
         </Route>

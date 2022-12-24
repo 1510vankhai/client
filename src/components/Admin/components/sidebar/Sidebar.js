@@ -31,7 +31,7 @@ function Sidebar(props) {
   return (
     <div className="sidebar">
       <div className="sidebar-top">
-        <img src="https://raw.githubusercontent.com/trananhtuat/tua-react-admin/main/src/assets/images/logo.png"></img>
+        <img src="http://logos.textgiraffe.com/logos/logo-name/Admin-designstyle-friday-m.png"></img>
       </div>
       <div className="sidebar-list">
         <Link to="/admin" className={'sidebar-list-item'}>
@@ -63,12 +63,12 @@ function Sidebar(props) {
               </div>
           </p>
         </Link>
-        {/* <Link to="/admin/chat" className={location.pathname === '/admin/chat' ? 'sidebar-list-item active': 'sidebar-list-item'}>
+        <Link to="/admin/chat" className={location.pathname === '/admin/chat' ? 'sidebar-list-item active': 'sidebar-list-item'}>
           <span>
             <WechatOutlined></WechatOutlined>
           </span>
           <p>Chat</p>
-        </Link> */}
+        </Link>
       </div>
     </div>
   );

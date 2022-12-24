@@ -68,19 +68,19 @@ function Carousel(props) {
                     ref={slider => (slider1 = slider)} 
                     {...settings} >
               <div key={1}>
-                <img src="https://cdn.cellphones.com.vn/media/ltsoft/promotion/loa-691-301-max.png"></img>
+                <img src="https://cdn.tgdd.vn/Files/2021/08/01/1372170/dong-hanh-mua-dich-tro-gia-het-minh-giam-ngay-5.png"></img>
               </div>
               <div key={2}>
-                <img src="https://cdn.cellphones.com.vn/media/ltsoft/promotion/1380-600-max.png"></img>
+                <img src="https://cdn.tgdd.vn/Files/2021/08/01/1372170/dong-hanh-mua-dich-tro-gia-het-minh-giam-ngay-5.png"></img>
               </div>
               <div key={3}>
-                <img src="https://cdn.cellphones.com.vn/media/ltsoft/promotion/ip11-tg-690-300-max.png"></img>
+                <img src="https://cdn.tgdd.vn/Files/2021/08/01/1372170/dong-hanh-mua-dich-tro-gia-het-minh-giam-ngay-5.png"></img>
               </div>
               <div key={4}>
-                <img src="https://cdn.cellphones.com.vn/media/ltsoft/promotion/dd690x300_XR.png"></img>
+                <img src="https://cdn.tgdd.vn/Files/2021/08/01/1372170/dong-hanh-mua-dich-tro-gia-het-minh-giam-ngay-5.png"></img>
               </div>
               <div key={4}>
-                <img src="https://cdn.cellphones.com.vn/media/ltsoft/promotion/se-aw-690-300-max.png"></img>
+                <img src="https://cdn.tgdd.vn/Files/2021/08/01/1372170/dong-hanh-mua-dich-tro-gia-het-minh-giam-ngay-5.png"></img>
               </div>
             </Slider>
             <div className='carousel-left-move' onClick={() => previous()}>

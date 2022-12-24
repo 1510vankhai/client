@@ -45,7 +45,7 @@ function Header(props) {
       <section id="menu">
         <div className="logo">
           <span>
-            <Link to="/"> CELLPHONES </Link>
+            <Link to="/"> ĐIỆN THOẠI HAY </Link>
           </span>
         </div>
         <div className="search">

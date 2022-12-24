@@ -26,7 +26,7 @@ export default function DashBoard() {
           <div className="dashboard-top-content">
             <li className="dashboard-top-content-avatar">
               <img src="https://res.cloudinary.com/caokhahieu/image/upload/v1626334932/gediogbkwlg85kbbsamq.jpg"></img>
-              <span>Cao Kha Hieu</span>
+              <span>nguyen khai</span>
             </li>
             <li className="dashboard-top-content-bell">
               <BellOutlined></BellOutlined>
